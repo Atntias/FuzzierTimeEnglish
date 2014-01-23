@@ -1,0 +1,24 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "12024db0-6ad2-4793-86c3-dcf24004e8f4",
+    "appKeys": {},
+    "longName": "FuzzierTimeEnglish",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "FuzzierTimeEnglish",
+    "companyName": "atntias",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/menu_icon_fuzzy_watch.png"
+            }
+        ]
+    }
+}
